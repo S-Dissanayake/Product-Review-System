@@ -1,0 +1,31 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "This is the backend application for rotten potatoes review app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "API",
+    "restAPI",
+    "nodejs"
+  ],
+  "author": "Sanusha Randika",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "cucumber": "^6.0.7",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.4",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20",
+    "path": "^0.12.7",
+    "uuid": "^9.0.0"
+  }
+}

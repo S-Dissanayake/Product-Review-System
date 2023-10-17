@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "key": 1,
+            "type": "bags",
+            "name": "Jige 29 Clutch",
+            "image_path": "bags_Jige_29_Clutch.png",
+            "alt": "Jige 29 Clutch"
+        },
+        {
+            "key": 2,
+            "type": "bags",
+            "name": "Constance 18 Shoulder",
+            "image_path": "bags_Constance_18_Shoulder.png",
+            "alt": "Constance 18 Shoulder"
+        },
+        {
+            "key": 3,
+            "type": "bags",
+            "name": "Kelly Séllier 32",
+            "image_path": "bags_Kelly_Séllier_32_handbag.png",
+            "alt": "Kelly Séllier 32 handbag"
+        },
+        {
+            "key": 4,
+            "type": "bags",
+            "name": "Picotin Leather Tote",
+            "image_path": "bags_Picotin_Leather_Tote.png",
+            "alt": "Picotin Leather Tote"
+        },
+        {
+            "key": 5,
+            "type": "bags",
+            "name": "Medium Olivia Hobo",
+            "image_path": "bags_Medium_Olivia_Hobo.png",
+            "alt": "Medium Olivia Hobo"
+        }
+    ]
+}

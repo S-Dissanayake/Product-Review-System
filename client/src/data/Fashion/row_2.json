@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "key": 6,
+            "type": "fashion",
+            "name": "Oval Sunglasses",
+            "image_path": "fashion_sunglasses.png",
+            "alt": "oval_sunglasses"
+        },
+        {
+            "key": 7,
+            "type": "fashion",
+            "name": "Prada Sweater",
+            "image_path": "fashion_sweater.png",
+            "alt": "sweater_prada"
+        },
+        {
+            "key": 8,
+            "type": "fashion",
+            "name": "The Button-Up",
+            "image_path": "fashion_button_up.png",
+            "alt": "button_up"
+        },
+        {
+            "key": 9,
+            "type": "fashion",
+            "name": "Camel Trench Coat",
+            "image_path": "fashion_trench_coat.png",
+            "alt": "trench_coat"
+        },
+        {
+            "key": 10,
+            "type": "fashion",
+            "name": "Classic Jeans",
+            "image_path": "fashion_jeans.png",
+            "alt": "jeans"
+        }
+    ]
+}

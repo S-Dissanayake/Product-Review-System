@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "key": 1,
+            "type": "fashion",
+            "name": "Miu Miu Ballet Slippers",
+            "image_path": "fashion_ballet_shoes.png",
+            "alt": "ballet_shoes"
+        },
+        {
+            "key": 2,
+            "type": "fashion",
+            "name": "Birkenstock Boston Clog",
+            "image_path": "fashion_cog.png",
+            "alt": "clog"
+        },
+        {
+            "key": 3,
+            "type": "fashion",
+            "name": "Prada Logo Tank",
+            "image_path": "fashion_long_tank.png",
+            "alt": "long_tank"
+        },
+        {
+            "key": 4,
+            "type": "fashion",
+            "name": "Diesel B-1DR Belt",
+            "image_path": "fashion_belt.png",
+            "alt": "diesel_belt"
+        },
+        {
+            "key": 5,
+            "type": "fashion",
+            "name": "Stud Handbag",
+            "image_path": "fashion_hand_bag.png",
+            "alt": "hand_bag"
+        }
+    ]
+}

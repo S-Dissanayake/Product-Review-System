@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "key": 6,
+            "type": "electronics",
+            "name": "SD Card",
+            "image_path": "elec_sd_card.png",
+            "alt": "sd_card"
+        },
+        {
+            "key": 7,
+            "type": "electronics",
+            "name": "Smart Watch",
+            "image_path": "elec_smart_watch.png",
+            "alt": "smart_watch"
+        },
+        {
+            "key": 8,
+            "type": "electronics",
+            "name": "Solar Panel",
+            "image_path": "elec_solar.png",
+            "alt": "solar"
+        },
+        {
+            "key": 9,
+            "type": "electronics",
+            "name": "Speakers",
+            "image_path": "elec_speaker.png",
+            "alt": "speakers"
+        },
+        {
+            "key": 10,
+            "type": "electronics",
+            "name": "Wireless Router",
+            "image_path": "elec_wireless_router.png",
+            "alt": "wireless_router"
+        }
+    ]
+}

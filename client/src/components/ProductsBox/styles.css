@@ -1,0 +1,20 @@
+.row-container {
+  border-color: blue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 60px;
+  border: 1px solid #003761;
+  color: #003761;
+  box-shadow: rgba(6, 4, 126, 0.918) 1px 1px 5px;
+  margin-bottom: 25px;
+  font-weight: 600;
+}
+
+.icon-container{
+    margin-right: 0px;
+    align-items: flex-end;
+    display: flex;
+    justify-content: right;
+}

@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "key": 6,
+            "type": "jewelry",
+            "name": "Pearl Strand",
+            "image_path": "jw_pearl_strand.png",
+            "alt": "pearls"
+        },
+        {
+            "key": 7,
+            "type": "jewelry",
+            "name": "Signet Ring",
+            "image_path": "jw_single_ring.png",
+            "alt": "single_ring"
+        },
+        {
+            "key": 8,
+            "type": "jewelry",
+            "name": "Stacking Ring",
+            "image_path": "jw_stacking_ring.png",
+            "alt": "stacking_ring"
+        },
+        {
+            "key": 9,
+            "type": "jewelry",
+            "name": "Colorful Stone",
+            "image_path": "jw_colorfull_stones.png",
+            "alt": "Colorful Stone"
+        },
+        {
+            "key": 10,
+            "type": "jewelry",
+            "name": "Steel Watch",
+            "image_path": "jw_steel_watch.png",
+            "alt": "Steel Watch"
+        }
+    ]
+}

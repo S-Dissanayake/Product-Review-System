@@ -1,0 +1,19 @@
+.row-container {
+  border-color: blue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 60px;
+  border: 1px solid #074779;
+  color: #074779;
+  box-shadow: rgba(6, 4, 126, 0.918) 1px 1px 10px;
+  margin-bottom: 25px;
+}
+
+.icon-container{
+    margin-right: 0px;
+    align-items: flex-end;
+    display: flex;
+    justify-content: right;
+}

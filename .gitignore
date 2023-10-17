@@ -1,0 +1,26 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# local files
+client/node_modules
+client/package-lock.json
+
+server/package-lock.json
+server/node_modules
+
+#build files
+server/build
+
+server/upload

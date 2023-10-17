@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "key": 1,
+            "type": "furniture",
+            "name": "Sofa",
+            "image_path": "ft_sofa.png",
+            "alt": "Sofa"
+        },
+        {
+            "key": 2,
+            "type": "furniture",
+            "name": "Coffee Table",
+            "image_path": "ft_cofee_table.png",
+            "alt": "Coffee Table"
+        },
+        {
+            "key": 3,
+            "type": "furniture",
+            "name": "Chest of Drawers",
+            "image_path": "ft_Chest of Drawers.png",
+            "alt": "Chest of Drawers"
+        },
+        {
+            "key": 4,
+            "type": "furniture",
+            "name": "Book Case",
+            "image_path": "ft_book_case.png",
+            "alt": "Book Case"
+        },
+        {
+            "key": 5,
+            "type": "furniture",
+            "name": "Armchair",
+            "image_path": "ft_Armchair.png",
+            "alt": "Armchair"
+        }
+    ]
+}

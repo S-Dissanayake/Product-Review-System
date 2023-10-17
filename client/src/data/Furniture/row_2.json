@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "key": 6,
+            "type": "furniture",
+            "name": "Dining room table",
+            "image_path": "ft_Dining room table.png",
+            "alt": "Dining room table"
+        },
+        {
+            "key": 7,
+            "type": "furniture",
+            "name": "Desk",
+            "image_path": "ft_desk.png",
+            "alt": "Desk"
+        },
+        {
+            "key": 8,
+            "type": "furniture",
+            "name": "Wardrobe",
+            "image_path": "ft_Wardrobe.png",
+            "alt": "Wardrobe"
+        },
+        {
+            "key": 9,
+            "type": "furniture",
+            "name": "Bed",
+            "image_path": "ft_bed.png",
+            "alt": "Bed"
+        },
+        {
+            "key": 10,
+            "type": "furniture",
+            "name": "Outdoor table",
+            "image_path": "ft_Outdoor table.png",
+            "alt": "Outdoor table"
+        }
+    ]
+}

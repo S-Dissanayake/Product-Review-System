@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "key": 6,
+            "type": "bags",
+            "name": "Maillon Triomphe Clutch",
+            "image_path": "bags_Maillon_Triomphe_Clutch.png",
+            "alt": "Maillon Triomphe Clutch"
+        },
+        {
+            "key": 7,
+            "type": "bags",
+            "name": "Teen Soft 16 In Smooth",
+            "image_path": "bags_Teen_Soft_16_Smooth.png",
+            "alt": "Teen Soft 16 In Smooth"
+        },
+        {
+            "key": 8,
+            "type": "bags",
+            "name": "Horizontal Cabas",
+            "image_path": "bags_Horizontal_Cabas.png",
+            "alt": "Horizontal Cabas"
+        },
+        {
+            "key": 9,
+            "type": "bags",
+            "name": "Beige Leather Neo Executive Shopping Tote",
+            "image_path": "bags_Beige_Leather_Neo_Executive_Shopping_Tote.png",
+            "alt": "Beige Leather Neo Executive Shopping Tote"
+        },
+        {
+            "key": 10,
+            "type": "bags",
+            "name": "Navy Quilted Lambskin",
+            "image_path": "bags_Navy_Quilted_Lambskin.png",
+            "alt": "Navy Quilted Lambskin"
+        }
+    ]
+}

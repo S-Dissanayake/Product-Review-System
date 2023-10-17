@@ -1,0 +1,11 @@
+.user-name {
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+.comment {
+  text-transform: capitalize;
+  font-size: 18px;
+  color: #010041;
+  text-align: justify;
+}

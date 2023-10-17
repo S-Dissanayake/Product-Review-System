@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "key": 6,
+            "type": "automobile",
+            "name": "Shock Absorbers",
+            "image_path": "am_shock.png",
+            "alt": "Shock Absorbers"
+        },
+        {
+            "key": 7,
+            "type": "automobile",
+            "name": "Air Filters",
+            "image_path": "am_air_filter.png",
+            "alt": "Air Filters"
+        },
+        {
+            "key": 8,
+            "type": "automobile",
+            "name": "Muffler",
+            "image_path": "am_mff.png",
+            "alt": "Muffler"
+        },
+        {
+            "key": 9,
+            "type": "automobile",
+            "name": "Catalytic Converter",
+            "image_path": "am_cat.png",
+            "alt": "Catalytic Converter"
+        },
+        {
+            "key": 10,
+            "type": "automobile",
+            "name": "Alternator",
+            "image_path": "am_alt.png",
+            "alt": "Alternator"
+        }
+    ]
+}

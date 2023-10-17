@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "key": 1,
+            "type": "electronics",
+            "name": "JBL SPEAKERS",
+            "image_path": "elec_JBL.png",
+            "alt": "JBL_SPEAKERS"
+        },
+        {
+            "key": 2,
+            "type": "electronics",
+            "name": "AM FM Radio",
+            "image_path": "elec_AM_FM_radio.png",
+            "alt": "RADIO"
+        },
+        {
+            "key": 3,
+            "type": "electronics",
+            "name": "Apple Air Pods",
+            "image_path": "elec_apple_air_pods.png",
+            "alt": "air_pods"
+        },
+        {
+            "key": 4,
+            "type": "electronics",
+            "name": "CMOS Battery",
+            "image_path": "elec_CMOS_battery.png",
+            "alt": "battery"
+        },
+        {
+            "key": 5,
+            "type": "electronics",
+            "name": "Go Pro",
+            "image_path": "elec_goPro.png",
+            "alt": "goPro"
+        }
+    ]
+}

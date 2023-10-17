@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "key": 6,
+            "type": "beauty",
+            "name": "Calm + Restore Oat Gel Facial Moisturizer",
+            "image_path": "bh_Calm + Restore Oat Gel Facial Moisturizer.png",
+            "alt": "Calm + Restore Oat Gel Facial Moisturizer"
+        },
+        {
+            "key": 7,
+            "type": "beauty",
+            "name": "Regenerist Micro-Sculpting Cream Face Moisturizer with SPF 30",
+            "image_path": "bh_Regenerist_Micro_Sculpting_Cream.png",
+            "alt": "Regenerist Micro-Sculpting Cream Face Moisturizer with SPF 30"
+        },
+        {
+            "key": 8,
+            "type": "beauty",
+            "name": "Multi Correxion 5-in-1 Anti-Aging Daily Face Moisturizer with SPF 30",
+            "image_path": "bh_Multi Correxion 5-in-1 Anti-Aging Daily Face Moisturizer with SPF 30.png",
+            "alt": "Multi Correxion 5-in-1 Anti-Aging Daily Face Moisturizer with SPF 30"
+        },
+        {
+            "key": 9,
+            "type": "beauty",
+            "name": "RevitaLift Bright Reveal Brightening Moisturizer with SPF 30",
+            "image_path": "bh_RevitaLift Bright Reveal Brightening Moisturizer with SPF 30.png",
+            "alt": "RevitaLift Bright Reveal Brightening Moisturizer with SPF 30"
+        },
+        {
+            "key": 10,
+            "type": "beauty",
+            "name": "Olay Regenerist Retinol24 Night Moisturizer",
+            "image_path": "bh_Olay Regenerist Retinol24 Night Moisturizer.png",
+            "alt": "Olay Regenerist Retinol24 Night Moisturizer"
+        }
+    ]
+}

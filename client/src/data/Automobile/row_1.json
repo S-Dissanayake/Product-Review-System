@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "key": 1,
+            "type": "automobile",
+            "name": "Battery",
+            "image_path": "am_Battery.png",
+            "alt": "Battery"
+        },
+        {
+            "key": 2,
+            "type": "automobile",
+            "name": "Axles",
+            "image_path": "am_axel.png",
+            "alt": "Axles"
+        },
+        {
+            "key": 3,
+            "type": "automobile",
+            "name": "Brakes",
+            "image_path": "am_brakes.png",
+            "alt": "Brakes"
+        },
+        {
+            "key": 4,
+            "type": "automobile",
+            "name": "Pistons",
+            "image_path": "am_pistons.png",
+            "alt": "Pistons"
+        },
+        {
+            "key": 5,
+            "type": "automobile",
+            "name": "Radiator",
+            "image_path": "am_radiator.png",
+            "alt": "Radiator"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "key": 1,
+            "type": "jewelry",
+            "name": "Stud Earrings",
+            "image_path": "jw_studs.png",
+            "alt": "studs"
+        },
+        {
+            "key": 2,
+            "type": "jewelry",
+            "name": "Hoop Earrings",
+            "image_path": "jw_hoops.png",
+            "alt": "hoops"
+        },
+        {
+            "key": 3,
+            "type": "jewelry",
+            "name": "Bangle Bracelet",
+            "image_path": "jw_bracelet.png",
+            "alt": "bracelet"
+        },
+        {
+            "key": 4,
+            "type": "jewelry",
+            "name": "Pendant Necklace",
+            "image_path": "jw_pendant.png",
+            "alt": "pendant"
+        },
+        {
+            "key": 5,
+            "type": "jewelry",
+            "name": "Gold Chain",
+            "image_path": "jw_gold_chain.png",
+            "alt": "gold_chain"
+        }
+    ]
+}

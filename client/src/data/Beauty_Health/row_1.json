@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "key": 1,
+            "type": "beauty",
+            "name": "Soothing Cleanser",
+            "image_path": "bh_Soothing_Cleanser.png",
+            "alt": "Soothing Cleanser"
+        },
+        {
+            "key": 2,
+            "type": "beauty",
+            "name": "Daily Facial Cleanser",
+            "image_path": "bh_Daily_Facial_Cleanser.png",
+            "alt": "Daily Facial Cleanser"
+        },
+        {
+            "key": 3,
+            "type": "beauty",
+            "name": "Regenerist Micro-Sculpting Cream",
+            "image_path": "bh_Regenerist Micro-Sculpting Cream Face Moisturizer with SPF 30.png",
+            "alt": "Regenerist Micro-Sculpting Cream"
+        },
+        {
+            "key": 4,
+            "type": "beauty",
+            "name": "Dramatically Different Moisturizing Lotion+",
+            "image_path": "bh_Dramatically Different Moisturizing Lotion.png",
+            "alt": "Dramatically Different Moisturizing Lotion+"
+        },
+        {
+            "key": 5,
+            "type": "beauty",
+            "name": "HydraLuminous Water Surge Gel Cream",
+            "image_path": "bh_HydraLuminous Water Surge Gel Cream.png",
+            "alt": "HydraLuminous Water Surge Gel Cream"
+        }
+    ]
+}
